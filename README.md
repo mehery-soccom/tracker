@@ -4,19 +4,12 @@ Issues Tracker for Mehery
 [Issues](https://github.com/mehery-soccom/mehery-tracker/issues)
 
 
-Function | WA | TG | FB | TW | Web 
-:------------ | :-------------| :-------------| :-------------| :-------------
-double tick | :heavy_check_mark: |  &#9744; | :heavy_check_mark: | :heavy_check_mark:
+Function              | WA            | TG            |     FB        |     TW        | Web 
+:-------------------- | :-------------| :-------------| :-------------| :-------------| :-------------
+double tick           | &#9745;       |  &#9744;      |  &#9744;      |  &#9744;      |  &#9744;
+inbound image         | &#9745;       |  &#9745;      |  &#9744;      |  &#9744;      |  &#9744;
+outbound image        | &#9745;       |  &#9745;      |  &#9745;      |  &#9745;      |  &#9745;
 
 
 
 
-
-
-
-
-
-no - &#9744;
-
-
-yes - &#9745;
