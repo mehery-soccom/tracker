@@ -5,6 +5,7 @@ Issues Tracker for Mehery
 
 
 
+## Features
 
 Features              | WA            | TG            |     FB        |     TW        | Web 
 :-------------------- | :-------------| :-------------| :-------------| :-------------| :-------------
@@ -17,5 +18,6 @@ inbound - pdf         | &#9744;       |  &#9744;      |  &#9744;      |  &#9744;
 inbound - vdo         | &#9744;       |  &#9744;      |  &#9744;      |  &#9744;      |  &#9744;
 
 
-
-
+### ICONS
+[BootStrap](https://icons.getbootstrap.com/)
+[FontAweSome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
