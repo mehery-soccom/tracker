@@ -1,11 +1,9 @@
-# mehery-tracker
-Issues Tracker for Mehery
+# MeherY SocCom
 
-[Issues](https://github.com/mehery-soccom/mehery-tracker/issues)
+### Tracker
+* [Issues](https://github.com/mehery-soccom/mehery-tracker/issues)
 
-
-
-## Features
+### Features
 
 Features              | WA            | TG            |     FB        |     TW        | Web 
 :-------------------- | :-------------| :-------------| :-------------| :-------------| :-------------
