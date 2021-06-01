@@ -19,5 +19,5 @@ inbound - vdo         | &#9744;       |  &#9744;      |  &#9744;      |  &#9744;
 
 
 ### ICONS
-[BootStrap](https://icons.getbootstrap.com/)
-[FontAweSome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
+* [BootStrap](https://icons.getbootstrap.com/)
+* [FontAweSome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
