@@ -1,4 +1,11 @@
+### UID
 
+Information       | CODE        | Field   
+:---------------- | :-------- | :-------- 
+WhatsApp          | WA        |  phone  
+Telegram          | TG        |  asid  
+Facebook          | FB        |  asid  
+Twitter           | TW        |  asid
 
 ### Personal Details Across Platforms
 
@@ -22,3 +29,4 @@ statuses_count    | &#9744;   |  &#9744;  |  &#9744;  |  &#9745;  |  &#9744;
 profile_image_url | &#9744;   |  &#9744;  |  &#9745;  |  &#9745;  |  &#9744;
 timezone          | &#9744;   |  &#9744;  |  &#9745;  |  &#9744;  |  &#9744;
 locale            | &#9744;   |  &#9744;  |  &#9745;  |  &#9744;  |  &#9744;
+
