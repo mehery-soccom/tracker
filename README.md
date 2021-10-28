@@ -2,6 +2,7 @@
 
 ### Tracker
 * [Issues](https://github.com/mehery-soccom/mehery-tracker/issues)
+* [Projects](https://github.com/orgs/mehery-soccom/projects/3/views/1)
 
 ### Features
 
