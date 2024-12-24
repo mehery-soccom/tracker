@@ -1,10 +1,12 @@
-# MeherY SocCom
+---
+layout: default
+title: Channel Features
+parent : Features
+nav_order: 2
+has_children: true
+---
 
-### Tracker
-* [Issues](https://github.com/mehery-soccom/mehery-tracker/issues)
-* [Projects](https://github.com/orgs/mehery-soccom/projects/3)
-
-### Features
+### Channel Features
 
 Features              | WA            | TG            |     FB        |     TW        | Web 
 :-------------------- | :-------------| :-------------| :-------------| :-------------| :-------------
@@ -17,7 +19,3 @@ inbound - pdf         | &#9744;       |  &#9744;      |  &#9744;      |  &#9744;
 inbound - vdo         | &#9744;       |  &#9744;      |  &#9744;      |  &#9744;      |  &#9744;
 inbound - Button      | &#9745;       |  &#9745;      |  &#9744;      |  &#9744;      |  &#9745;
 
-
-### ICONS
-* [BootStrap](https://icons.getbootstrap.com/)
-* [FontAweSome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
