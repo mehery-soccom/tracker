@@ -1,3 +1,11 @@
+---
+layout: default
+title: Personal Information across Channels
+parent : Channels
+nav_order: 2
+has_children: true
+---
+
 ### UID
 
 Information       | CODE        | Field   
@@ -7,7 +15,7 @@ Telegram          | TG        |  asid
 Facebook          | FB        |  asid  
 Twitter           | TW        |  asid
 
-### Personal Details Across Platforms
+### Personal Information across Channels
 
 Information       | WA        | TG        |     FB    |     TW    | Web 
 :---------------- | :-------- | :-------- | :-------- | :-------- | :--------

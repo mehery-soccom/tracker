@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Channel Features
-parent : Features
+title: Channels
+parent : Wiki
 nav_order: 2
 has_children: true
 ---
